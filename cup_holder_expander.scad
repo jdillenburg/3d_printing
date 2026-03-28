@@ -1,5 +1,8 @@
 // ============================================================
 //  Cup Holder Expander
+//  John Dillenburg
+//  john@dillenburg.org
+//  https://github.com/jdillenburg
 //  Three-section design: base cylinder → taper → top cylinder
 //  Top cylinder includes a vertical notch for the cup handle.
 // ============================================================
